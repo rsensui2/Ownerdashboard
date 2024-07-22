@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ownerdashboard/static/js/main.bcc43f47.js",
+    "main.js": "/ownerdashboard/static/js/main.96d45416.js",
     "index.html": "/ownerdashboard/index.html",
-    "main.bcc43f47.js.map": "/ownerdashboard/static/js/main.bcc43f47.js.map"
+    "main.96d45416.js.map": "/ownerdashboard/static/js/main.96d45416.js.map"
   },
   "entrypoints": [
-    "static/js/main.bcc43f47.js"
+    "static/js/main.96d45416.js"
   ]
 }
